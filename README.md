@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateuszpiaszczyk&label=Profile%20views&color=0e75b6&style=flat" alt="mateuszpiaszczyk" /> </p>
 
-- 🔭 I’m currently working on [MY PERSONAL HOMPAGE](https://mateuszpiaszczyk.github.io/personal-homepage/)
+- 🔭 I’m currently working on [MOVIES BROWSER](https://mateuszpiaszczyk.github.io/MoviesBrowser/)
 
 - 🌱 I’m currently learning **javascript from YouCode**
 
