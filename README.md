@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **javascript from YouCode**
 
-- 💬 Ask me about **react,** graphic, **
+- 💬 Ask me about `react` and `graphic`
 
 - 📫 How to reach me **mateuszpiaszczyk91@gmail.com**
 
