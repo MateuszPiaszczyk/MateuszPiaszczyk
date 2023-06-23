@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [MOVIES BROWSER](https://mateuszpiaszczyk.github.io/MoviesBrowser/) and [CaluclatorApp](https://mateuszpiaszczyk.github.io/CalculatorApp/)
 
-- 🌱 I’m currently learning **javascript from YouCode**
+- 🌱 I have now completed the **javascript course from YouCode** but I'm still trying to develop my skills, currently I'm going to learn typescript and tanstack query ;)
 
 - 💬 Ask me about `react` and `graphic`
 
