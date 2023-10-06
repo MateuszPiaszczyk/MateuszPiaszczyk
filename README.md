@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=mateuszpiaszczyk&label=Profile%20views&color=0e75b6&style=flat" alt="mateuszpiaszczyk" /> </p>
 
-- 🔭 I’m currently working on [MOVIES BROWSER](https://mateuszpiaszczyk.github.io/MoviesBrowser/) and [CaluclatorApp](https://mateuszpiaszczyk.github.io/CalculatorApp/)
+- 🔭 I’m currently working on [MOVIES BROWSER](https://mateuszpiaszczyk.github.io/MoviesBrowser/), [CaluclatorApp](https://mateuszpiaszczyk.github.io/CalculatorApp/) and my programing blog `zaprogramujto` - still waiting
 
 - 🌱 I have now completed the **javascript course from YouCode** but I'm still trying to develop my skills, currently I'm going to learn typescript and tanstack query 🔥
 
